@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./exercises/ownership-borrowing/Cargo.toml",
+        "./exercises/complex-type/Cargo.toml"
+    ]
+}
