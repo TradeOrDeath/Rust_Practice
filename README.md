@@ -2,6 +2,9 @@
 ## Installation
 
 See https://rustup.rs
+Install cargo
+node.js, npm
+Near cli
 
 ## Setup
 
@@ -9,6 +12,8 @@ See https://rustup.rs
 git clone https://github.com/TradeOrDeath/Rust_Practice
 cd Rust_Practice
 ```
+## Test
+cargo test --test abc(abc is name of the name you want to test. ex: cargo test --test conditions)
 ## Welcome to my repo 🦀 
 
 This is a Rust course developed. The course covers the full of Rust, from basic syntax to advanced topics like generics and error handling. 
